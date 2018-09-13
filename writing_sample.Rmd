@@ -19,3 +19,7 @@ length(samp)
 
 I can take the mean of the sample, too!
 The mean is `r mean(samp)`.
+
+# Section 3
+
+Writing a sample for git demo
